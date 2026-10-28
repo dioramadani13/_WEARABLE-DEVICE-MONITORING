@@ -1,0 +1,6 @@
+{
+  "name": "STM32WL IoT Wearable Animal Monitor",
+  "description": "Sistem IoT Monitoring Wearable Hewan berbasis STM32WL & LoRa dengan visualisasi telemetri real-time, evaluasi power management, downlink control, dan analitika skripsi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
